@@ -3,7 +3,7 @@ import numpy as np
 
 # textFile = open(<filename>, "r")
 lines = textFile.read().split("\n")
-#textFile = open(<filename>, "r")
+# textFile = open(<filename>, "r")
 lines = lines + textFile.read().split("\n")
 # textFile = open(<filename>, "r")
 lines = lines + textFile.read().split("\n")
